@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/backend.iml" filepath="$PROJECT_DIR$/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-spring-blockchain.iml" filepath="$PROJECT_DIR$/sample-spring-blockchain.iml" />
     </modules>
   </component>
 </project>
